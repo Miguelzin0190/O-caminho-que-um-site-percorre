@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: #0000FF;
+    text-align: center;
+}
+
+h2 {
+    color: #1591EA;
+    padding-top: 20px;
+}
+
+p {
+    color: whitesmoke;
+    padding-left: 25px;
+}
